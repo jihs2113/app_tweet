@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "494594978",
+    "project_id": "apptweet-55038",
+    "storage_bucket": "apptweet-55038.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494594978:android:4f2587c82ff213af88e0fb",
+        "android_client_info": {
+          "package_name": "com.testproject.apptweet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494594978-83o5q85lmrjn49dpju66n376niqimmes.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_Yu0Opc-x_vHWvvNDqsk9KQBH721B0b0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494594978-83o5q85lmrjn49dpju66n376niqimmes.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
